@@ -123,10 +123,10 @@ margin-bottom: 150px;
     font-weight: bolder;
     text-decoration: none;
     transition-duration: 0.4s;
+    padding: 50px;
 }
 
 .footer-link:hover {
-    background-color: #39A7FF; /* blue */
     color: #E0F4FF;
 }
 
